@@ -1,0 +1,35 @@
+{
+    "main":
+[
+    {
+        "intelligence":20,
+        "energy":50,
+        "enjoyment":70
+    },
+    {
+        "intelligence":30,
+        "energy":50,
+        "enjoyment":60
+    },
+    {
+        "intelligence":30,
+        "energy":20,
+        "enjoyment":35
+    },
+    {
+        "intelligence":35,
+        "energy":45,
+        "enjoyment":40
+    },
+    {
+        "intelligence":75,
+        "energy":75,
+        "enjoyment":60
+    },
+    {
+        "intelligence":85,
+        "energy":85,
+        "enjoyment":65
+    }
+]
+}
